@@ -75,13 +75,13 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
         ---
 
-        ## GitHub Trophies
+## Contribution Activity
 
-        <div align="center">
+<div align="center">
 
-        [![trophy](https://github-profile-trophy.vercel.app/?username=jeevankumar25src-cmyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jeevankumar25src-cmyk&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
-        </div>
+</div>
 
         ---
 
