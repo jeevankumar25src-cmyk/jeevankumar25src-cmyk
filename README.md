@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankumar25src-cmyk&color=0078D4&style=flat-square&label=Profile+Views)
 
 <!-- SECTION A: ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" />
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" wihdth="35px" />
 
 # Hi, I'm JeevanKumar N!
 
@@ -86,7 +86,7 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
         <div align="center">
 
-        [![trophy](https://github-profile-trophy.vercel.app/?username=jeevankumar25src-cmyk&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeevankumar25src-cmyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
         </div>
 
