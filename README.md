@@ -83,22 +83,22 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
 </div>
 
-        ---
+---
 
-        ## Let's Connect!
+## Let's Connect!
 
-        <div align="center">
+<div align="center">
 
-        I'm always open to data collaborations, freelance projects, and exciting opportunities. Let's build something data-driven together!
+I'm always open to data collaborations, freelance projects, and exciting opportunities. Let's build something data-driven together!
 
-        [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/jeevankumar-n)
-        &nbsp;&nbsp;
-        [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=social&logo=vercel)](https://jeevankumar25src-cmyk.github.io/)
-        &nbsp;&nbsp;
-        [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=social&logo=github)](https://github.com/jeevankumar25src-cmyk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/jeevankumar-n)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=social&logo=vercel)](https://jeevankumar25src-cmyk.github.io/)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=social&logo=github)](https://github.com/jeevankumar25src-cmyk)
 
-        ---
+---
 
-        *"In God we trust. All others must bring data." — W. Edwards Deming*
+*"In God we trust. All others must bring data." — W. Edwards Deming*
 
-        </div>
+</div>
