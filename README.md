@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- SECTION G: VISITOR COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=jeevankumar25src-cmyk&color=0078D4&style=flat-square&label=Profile+Views)
 
-<!-- SECTION A: ANIMATED HEADER -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" wihdth="35px" />
+<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="35px" />
 
 # Hi, I'm JeevanKumar N!
 
@@ -14,21 +12,19 @@
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## 🙋‍♂️ About Me
+## About Me
 
 I'm a passionate **Data Analyst** with **4+ years of experience** transforming complex datasets into clear, actionable business insights. I specialise in building interactive dashboards, writing optimised SQL queries, and automating data workflows with Python.
 
-- 📊 I turn raw, messy data into **beautiful dashboards** and **compelling stories**
-- - 🐍 I automate repetitive data tasks with **Python** so humans can focus on decisions
-  - - 🎯 **Fun fact:** I can spot a misleading chart from a mile away
-    - - 🌱 **Currently exploring:** Advanced analytics, ML integration with BI tools
-      - - 💬 **Ask me about:** Power BI, Tableau, SQL optimisation, or data strategy
+- I turn raw, messy data into **beautiful dashboards** and **compelling stories**
+- - I automate repetitive data tasks with **Python** so teams can focus on decisions
+  - - **Fun fact:** I can spot a misleading chart from a mile away
+    - - **Currently exploring:** Advanced analytics and ML integration with BI tools
+      - - **Ask me about:** Power BI, Tableau, SQL optimisation, or data strategy
        
         - ---
 
-        <!-- SECTION C: TECH STACK -->
-        ## 🛠️ Tech Stack & Tools
+        ## Tech Stack & Tools
 
         **Data Visualisation**
 
@@ -54,8 +50,7 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
         ---
 
-        <!-- SECTION D: SOCIAL MEDIA LINKS -->
-        ## 🌐 Connect With Me
+        ## Connect With Me
 
         <div align="center">
 
@@ -67,12 +62,11 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
         ---
 
-        <!-- SECTION E: GITHUB STATS -->
-        ## 📊 GitHub Stats
+        ## GitHub Stats
 
         <div align="center">
 
-        <img src="https://github-readme-stats.vercel.app/api?username=jeevankumar25src-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=jeevankumar25src-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeevankumar25src-cmyk&theme=tokyonight&hide_border=true" width="49%" />
 
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevankumar25src-cmyk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="50%" />
@@ -81,19 +75,17 @@ I'm a passionate **Data Analyst** with **4+ years of experience** transforming c
 
         ---
 
-        <!-- SECTION F: GITHUB TROPHIES -->
-        ## 🏆 GitHub Trophies
+        ## GitHub Trophies
 
         <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeevankumar25src-cmyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+        [![trophy](https://github-profile-trophy.vercel.app/?username=jeevankumar25src-cmyk&theme=onedark&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
         </div>
 
         ---
 
-        <!-- SECTION H: FOOTER -->
-        ## 🤝 Let's Connect!
+        ## Let's Connect!
 
         <div align="center">
 
